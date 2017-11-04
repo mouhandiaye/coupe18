@@ -30,7 +30,7 @@
  */
 
 /*
- * Author: Mateusz Przybyladdd
+ * Author: Mateusz Przybyla
  */
 
 #include "obstacle_detector/obstacle_tracker.h"
